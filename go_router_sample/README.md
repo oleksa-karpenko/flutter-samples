@@ -3,6 +3,7 @@
 Flutter project that shows using Go Router component.
 
 ![video](https://raw.githubusercontent.com/oleksa-karpenko/flutter-samples/main/go_router_sample/video.mov)
+<video src="https://raw.githubusercontent.com/oleksa-karpenko/flutter-samples/main/go_router_sample/video.mov"></video>
 
 ## Getting Started
 

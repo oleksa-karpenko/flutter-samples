@@ -5,6 +5,10 @@ Flutter project that shows using Go Router component.
 ![video](https://user-images.githubusercontent.com/132551564/236199136-ac8a8d10-f6e5-445e-9911-3c3a66f76d1c.mov)
 
 
+![video2](https://user-images.githubusercontent.com/132551564/236199566-5eb70cff-e72a-4311-a0fc-c9998ca58117.mp4)
+
+
+
 
 ## Getting Started
 

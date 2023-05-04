@@ -43,7 +43,7 @@ channel.setMethodCallHandler { (call: FlutterMethodCall, result: FlutterResult) 
     
 GeneratedPluginRegistrant.register(with: self)
 ```
-[screenshot](https://github.com/oleksa-karpenko/flutter-samples/blob/main/native_channel_sample/screenshot.png?raw=true)
+[screenshot](https://raw.githubusercontent.com/oleksa-karpenko/flutter-samples/main/native_channel_sample/screenshot.png)
 
 ## Getting Started
 
